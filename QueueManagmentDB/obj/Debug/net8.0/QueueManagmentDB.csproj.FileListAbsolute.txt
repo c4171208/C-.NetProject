@@ -1,0 +1,17 @@
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentDB.deps.json
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentDB.runtimeconfig.json
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentDB.dll
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentDB.pdb
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentEntites.dll
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\bin\Debug\net8.0\QueueManagmentEntites.pdb
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.csproj.AssemblyReference.cache
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.AssemblyInfoInputs.cache
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.AssemblyInfo.cs
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.csproj.CoreCompileInputs.cache
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueMan.9F287A1B.Up2Date
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.dll
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\refint\QueueManagmentDB.dll
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.pdb
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\QueueManagmentDB.genruntimeconfig.cache
+C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\obj\Debug\net8.0\ref\QueueManagmentDB.dll

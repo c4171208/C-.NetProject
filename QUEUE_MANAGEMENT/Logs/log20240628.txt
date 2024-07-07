@@ -1,0 +1,6 @@
+2024-06-28 17:37:46.495 +03:00 [ERR] Error on EditQueue, Message: Queue not found, InnerException: , StackTrace:    at QueueManagmentDB.Servicers.QueDB.EditQueue(Int32 id, Queue queue) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\Servicers\QueDB.cs:line 47
+   at QueueManagmentBL.Servicers.QueBl.EditQueue(Int32 id, QueueDTO queueToRemoveDTO) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentBL\Servicers\QueBl.cs:line 112
+   at QueueManagmentApi.Controllers.QueController.EditQueue(QueueDTO queue, Int32 id) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QUEUE_MANAGEMENT\Controllers\QueController.cs:line 47
+2024-06-28 17:43:52.501 +03:00 [ERR] Error on RemoveQue, Message: Queue not found, InnerException: , StackTrace:    at QueueManagmentDB.Servicers.QueDB.RemoveQue(Int32 id) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentDB\Servicers\QueDB.cs:line 34
+   at QueueManagmentBL.Servicers.QueBl.RemoveQue(Int32 id) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QueueManagmentBL\Servicers\QueBl.cs:line 77
+   at QueueManagmentApi.Controllers.QueController.RemoveQue(Int32 id) in C:\פרויקטים שלי\.Net\QUEUE_MANAGEMENT\QUEUE_MANAGEMENT\Controllers\QueController.cs:line 66

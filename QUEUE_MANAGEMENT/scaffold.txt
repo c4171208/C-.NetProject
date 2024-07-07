@@ -1,0 +1,4 @@
+Scaffold-DbContext 'Data Source=PC-ASUS\MYSQL;Initial Catalog=QUEUE_MANAGEMENT;Integrated Security=True;Trusted_Connection=True;TrustServerCertificate=True;' Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF\Models -Project QueueManagmentDB -Context QueueManagmentContext -contextDir EF\Contexts -force
+//
+לשנות את הפונקציה עם אוביקט res
+להוסיף את הקטע של ה-dto
